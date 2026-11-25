@@ -1,0 +1,270 @@
+{
+  "brand": "Voxa",
+  "brandMark": "V",
+  "nav": {
+    "items": [
+      {
+        "label": "How it works",
+        "href": "#how"
+      },
+      {
+        "label": "Use cases",
+        "href": "#examples"
+      },
+      {
+        "label": "FAQ",
+        "href": "#faq"
+      }
+    ],
+    "cta": "Try a voice free"
+  },
+  "hero": {
+    "eyebrow": "AI voice generator",
+    "titleA": "A voice that sounds",
+    "titleB": "like you mean it",
+    "sub": "Voxa creates natural voiceovers in many languages from typed text, for videos, lessons and announcements.",
+    "cta": "Try a voice free",
+    "proof": "Free to try · Many languages · No recording needed"
+  },
+  "tagline": "Type the words. Hear them come alive in any language.",
+  "benefits": {
+    "eyebrow": "Why Voxa",
+    "title": "Voiceovers without a microphone or a studio",
+    "sub": "Built for creators who need a voice today, not a recording session.",
+    "items": [
+      {
+        "icon": "mic",
+        "title": "Natural voices",
+        "text": "Voices with steady pace and clear pronunciation, for narration and announcements."
+      },
+      {
+        "icon": "translate",
+        "title": "Many languages",
+        "text": "Generate the same script in English, Arabic, French, Spanish and more."
+      },
+      {
+        "icon": "clock",
+        "title": "Ready in minutes",
+        "text": "Paste your text, pick a voice, and download the audio the same day."
+      },
+      {
+        "icon": "users",
+        "title": "Voices for every audience",
+        "text": "Warm, calm, energetic or formal, pick the tone that fits your listener."
+      }
+    ]
+  },
+  "how": {
+    "eyebrow": "How it works",
+    "title": "From typed text to finished audio",
+    "sub": "",
+    "steps": [
+      {
+        "title": "Paste your text",
+        "text": "Type or paste the script you want to hear."
+      },
+      {
+        "title": "Pick a voice and language",
+        "text": "Choose a voice, a language and a pace that fits your listener."
+      },
+      {
+        "title": "Listen and download",
+        "text": "Preview the sample, adjust the pace, and download the audio."
+      }
+    ]
+  },
+  "demo": {
+    "play": "Play",
+    "pause": "Pause",
+    "sample": "Sample",
+    "progress": "Playback progress",
+    "voices": [
+      {
+        "name": "Amira",
+        "lang": "Arabic",
+        "desc": "Warm and calm, good for lessons and stories.",
+        "seconds": 11
+      },
+      {
+        "name": "Omar",
+        "lang": "Arabic",
+        "desc": "Clear and steady, good for announcements and news.",
+        "seconds": 9
+      },
+      {
+        "name": "Elena",
+        "lang": "English",
+        "desc": "Friendly and bright, good for product videos.",
+        "seconds": 12
+      },
+      {
+        "name": "Lucas",
+        "lang": "French",
+        "desc": "Smooth and formal, good for guides and tours.",
+        "seconds": 10
+      }
+    ]
+  },
+  "examples": {
+    "eyebrow": "Use cases",
+    "title": "Where Voxa is used",
+    "sub": "Four common ways teams use voiceovers made from text.",
+    "cases": [
+      {
+        "title": "Lessons",
+        "text": "Narration for lessons that students can replay at their own pace."
+      },
+      {
+        "title": "Audiobooks",
+        "text": "Chapters read in a steady voice, ready for listening apps."
+      },
+      {
+        "title": "Announcements",
+        "text": "Clear announcements for stores, schools and events."
+      },
+      {
+        "title": "Accessibility",
+        "text": "Spoken versions of written pages, for readers who prefer to listen."
+      }
+    ],
+    "langTitle": "Languages in the demo",
+    "languages": [
+      {
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "name": "Arabic",
+        "native": "العربية"
+      },
+      {
+        "name": "French",
+        "native": "Français"
+      },
+      {
+        "name": "Spanish",
+        "native": "Español"
+      },
+      {
+        "name": "German",
+        "native": "Deutsch"
+      },
+      {
+        "name": "Italian",
+        "native": "Italiano"
+      },
+      {
+        "name": "Portuguese",
+        "native": "Português"
+      },
+      {
+        "name": "Turkish",
+        "native": "Türkçe"
+      },
+      {
+        "name": "Japanese",
+        "native": "日本語"
+      },
+      {
+        "name": "Korean",
+        "native": "한국어"
+      },
+      {
+        "name": "Hindi",
+        "native": "हिन्दी"
+      },
+      {
+        "name": "Dutch",
+        "native": "Nederlands"
+      }
+    ],
+    "langNote": "Language list shown in the demo. Full language support is confirmed on the pricing page."
+  },
+  "proof": {
+    "eyebrow": "Early listeners",
+    "title": "What listeners say after trying the samples",
+    "sub": "Sample comments shared during early testing.",
+    "items": [
+      {
+        "quote": "The Arabic voice sounds natural enough for my lesson videos.",
+        "name": "Salma Ibrahim",
+        "role": "Teacher (sample)"
+      },
+      {
+        "quote": "I made announcements for our shop in two languages in one morning.",
+        "name": "Adel Mansour",
+        "role": "Shop owner (sample)"
+      },
+      {
+        "quote": "The pace control is what sold me. Slower for lessons, faster for ads.",
+        "name": "Nour El Din",
+        "role": "Course creator (sample)"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "items": [
+      {
+        "q": "Is Voxa free to try?",
+        "a": "Yes. You can play the voice samples on this page and try a short script without an account."
+      },
+      {
+        "q": "Which languages are supported?",
+        "a": "The demo includes English, Arabic, French, Spanish and more. The full list is on this page."
+      },
+      {
+        "q": "Can I use the audio commercially?",
+        "a": "Yes, audio made on paid plans can be used in videos, ads and courses."
+      },
+      {
+        "q": "Can I clone my own voice?",
+        "a": "Voice cloning is not part of this demo. It is planned as a separate, consent based feature."
+      },
+      {
+        "q": "How long can a script be?",
+        "a": "Demo samples are short clips. Longer scripts are part of the paid plans."
+      },
+      {
+        "q": "What format is the audio?",
+        "a": "MP3 and WAV, ready for video editors and listening apps."
+      }
+    ]
+  },
+  "final": {
+    "title": "Hear your words in a new voice",
+    "sub": "Try a voice free today and make your first voiceover in minutes.",
+    "note": "No card needed. No recording needed."
+  },
+  "form": {
+    "name": "Your name",
+    "email": "Work email",
+    "namePlaceholder": "e.g. Maya Haddad",
+    "emailPlaceholder": "you@example.com",
+    "nameError": "Please enter your name.",
+    "emailError": "Please enter a valid email address.",
+    "success": "Thank you. Check your inbox for your invite.",
+    "submit": "Try a voice free"
+  },
+  "footer": {
+    "tagline": "Type the words. Hear them come alive.",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "privacyText": "Voxa stores only the account details you provide and the audio you save. Demo samples stay in your browser and are never sent to a server. You can delete your account and audio at any time.",
+    "termsText": "Voxa is provided as is for voice generation. You own the audio you create from your scripts. Final pricing, limits and availability are confirmed on the pricing page before you pay.",
+    "rights": "© 2026 Voxa. All rights reserved.",
+    "back": "Back to top"
+  },
+  "common": {
+    "skip": "Skip to content",
+    "switchLanguage": "Switch language",
+    "menu": "Menu",
+    "close": "Close",
+    "cookieTitle": "Cookies",
+    "cookie": "We use a small cookie to remember your language choice and your cookie consent.",
+    "cookieAccept": "Accept",
+    "notFoundTitle": "This page is not here",
+    "notFoundText": "The link you followed may be wrong, or the page may have moved.",
+    "notFoundBack": "Back to the homepage"
+  }
+}
